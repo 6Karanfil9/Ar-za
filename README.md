@@ -1,2 +1,2 @@
-# Ar-za
+# Arıza
 Arıza adlı oyunun unity hali.
